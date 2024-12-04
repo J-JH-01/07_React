@@ -19,5 +19,4 @@ const Exam2 = () => {
   );
 }
 
-
 export default Exam2;
