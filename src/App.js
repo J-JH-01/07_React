@@ -3,6 +3,9 @@ import Exam2 from "./components/Exam2";
 import Exam3 from "./components/Exam3";
 import Exam4 from "./components/Exam4";
 import Exam5 from "./components/Exam5";
+import Exam6_1 from "./components/Exam6_1";
+import Exam6_2 from "./components/Exam6_2";
+import Exam7 from "./components/Exam7";
 
 function App() {
 
@@ -16,7 +19,10 @@ function App() {
       {/* <Exam2/> */}
       {/* <Exam3/> */}
       {/* <Exam4 /> */}
-      <Exam5 />
+      {/* <Exam5 /> */}
+      {/* <Exam6_1 /> */}
+      {/* <Exam6_2/> */}
+      <Exam7/>
 
     </div>
   );
